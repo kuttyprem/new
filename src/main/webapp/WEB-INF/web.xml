@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app>
-    <display-name>Demo_Website</display-name>
+    <display-name>vaishatech</display-name>
     <welcome-file-list>
         <welcome-file>Home</welcome-file>
     </welcome-file-list>
